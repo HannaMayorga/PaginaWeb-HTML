@@ -1,0 +1,17 @@
+body {background-color: rgb(240, 245, 220);
+/* color de fondo*/
+color: rgb(197, 3, 78);
+font-family: 'Anton', sans-serif;
+font-family: 'Dongle', sans-serif;
+}
+
+p { color: black;
+}
+
+.titulo{ color: #8f2f45;
+font-family: Georgia, 'Times New Roman', Times, serif ;}
+
+
+img {width: 300px ;}
+
+.img-2 {width: 150px;}
